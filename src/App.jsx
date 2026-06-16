@@ -372,7 +372,7 @@ export default function CalculadoraCAEVE() {
           la verificación del expediente, la documentación aportada y las condiciones de mercado en
           el momento de la venta. Actuación amparada en la ficha estandarizada TRA050 — sustitución
           de vehículo de combustión por vehículo eléctrico (RD 36/2023 y Orden TED/815/2023).
-          Compatible con el Plan MOVES. Impulsa Energía · Impulsa Servicios Energéticos, S.L.
+          Compatible con el Plan Auto. Impulsa Energía · Impulsa Servicios Energéticos, S.L.
         </p>
       </div>
     </div>
